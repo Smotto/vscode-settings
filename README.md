@@ -1,6 +1,5 @@
 # vscode-settings
-My vscode json settings.
-
+My settings for vscode text editor.
 
 EXTENSIONS:
 - Awesome Flutter Snippets
