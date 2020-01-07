@@ -1,0 +1,21 @@
+{
+    "name": "material-theme-morered",
+    "displayName": "Material-Theme-MoreRed",
+    "description": "A material theme that suddenly disappeared and revived.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Theme More Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Theme More Red-color-theme.json"
+            }
+        ]
+    }
+}
