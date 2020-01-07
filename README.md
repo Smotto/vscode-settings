@@ -10,7 +10,7 @@ EXTENSIONS:
 - dart-import
 - Flutter
 - Material Icon Theme
-- Material Theme
+- Material Theme Version 31.2.0
 - TabOut
 - Todo Tree
 
