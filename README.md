@@ -1,6 +1,9 @@
 # vscode-settings
 My settings for vscode text editor.
 
+FONTS:
+  Fira Code
+
 EXTENSIONS:
 - Awesome Flutter Snippets
 - Better Comments
