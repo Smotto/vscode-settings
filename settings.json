@@ -1,19 +1,57 @@
 {
-    "window.zoomLevel": 1,
-    "editor.formatOnSave": true,
-    "workbench.colorTheme": "Material Theme",
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.fontSize": 18,
-    "explorer.compactFolders": false,
-    "workbench.tree.indent": 12,
-    "dart.previewFlutterUiGuides": true,
-    "extensions.autoUpdate": false,
-    // Controls the font family.
-    "editor.fontFamily": "Fira Code",
     // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
     "editor.lineHeight": 24,
     // Enables font ligatures
     "editor.fontLigatures": true,
     // Controls if file decorations should use badges.
     // "explorer.decorations.badges": false
+    "window.zoomLevel": 0,
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 18,
+    "explorer.compactFolders": false,
+    "workbench.tree.indent": 12,
+    "dart.previewFlutterUiGuides": true,
+    "git.enableSmartCommit": true,
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#2979FF",
+        "activityBar.activeBorder": "#2979FF",
+        "list.activeSelectionForeground": "#2979FF",
+        "list.inactiveSelectionForeground": "#2979FF",
+        "list.highlightForeground": "#2979FF",
+        "scrollbarSlider.activeBackground": "#2979FF50",
+        "editorSuggestWidget.highlightForeground": "#2979FF",
+        "textLink.foreground": "#2979FF",
+        "progressBar.background": "#2979FF",
+        "pickerGroup.foreground": "#2979FF",
+        "tab.activeBorder": "#2979FF",
+        "notificationLink.foreground": "#2979FF",
+        "editorWidget.resizeBorder": "#2979FF",
+        "editorWidget.border": "#2979FF",
+        "settings.modifiedItemIndicator": "#2979FF",
+        "settings.headerForeground": "#2979FF",
+        "panelTitle.activeBorder": "#2979FF",
+        "breadcrumb.activeSelectionForeground": "#2979FF",
+        "menu.selectionForeground": "#2979FF",
+        "menubar.selectionForeground": "#2979FF",
+        "editor.findMatchBorder": "#2979FF",
+        "selection.background": "#2979FF40"
+    },
+    "materialTheme.accent": "Blue",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false,
+        "files.insertFinalNewline": true
+    },
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.colorTheme": "Community Material Theme Ocean",
+    "editor.fontFamily": "Menlo, Monaco,, 'Courier New', monospace",
 }
