@@ -2,7 +2,7 @@
 My settings for vscode text editor.
 
 FONTS:
-  Fira Code
+  Menlo, Monaco, 'Courier New', monospace
 
 EXTENSIONS:
 - Awesome Flutter Snippets
